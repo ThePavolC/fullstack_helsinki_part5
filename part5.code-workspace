@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "name": "Backend",
+      "path": "backend"
+    },
+    {
+      "name": "Frontend",
+      "path": "bloglist-frontend"
+    }
+  ],
+  "settings": {},
+  "eslint.workingDirectories": [{ "mode": "auto" }]
+}
